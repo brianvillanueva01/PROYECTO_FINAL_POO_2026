@@ -1,0 +1,10 @@
+# Ignorar compilados y ejecutables
+*.o
+*.exe
+*.out
+*.obj
+
+# Ignorar carpetas de compilación de ZinjaI y VS Code
+Debug/
+Release/
+.vscode/
